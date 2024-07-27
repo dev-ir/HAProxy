@@ -7,7 +7,11 @@
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/HAProxy/master/main.sh)
 ```
-**Comprehensive User Management:**
+
+## 🪚 Preview
+<p align="left">
+    <img width="100%" src="https://github.com/user-attachments/assets/02a2abec-ff9b-475d-ba29-cc034cb9b866" alt="Image">
+</p>
 
 ## Languages
 - English
