@@ -142,12 +142,14 @@ while true; do
     echo "| ##  ##  ##   ##   ##       ## ##   ### ###  ##  ###     ##  @DVHOST_CLOUD  |"
     echo "| ##  ##  ##   ##  ####     #### ##   #####   ##  ###    ####                |"
     echo "+----------------------------------------------------------------------------+"
-    echo "Select an option:"
-    echo "1) Install HAProxy"
-    echo "2) Add IPs and Ports to Forward"
-    echo "3) Clear Configurations"
-    echo "4) Remove HAProxy Completely"
-    echo "9) Back"
+    echo "|Select an option:"
+    echo "|1) Install HAProxy"
+    echo "|2) Add IPs and Ports to Forward"
+    echo "|3) Clear Configurations"
+    echo "|4) Remove HAProxy Completely"
+    echo "|9) Back"
+    echo "+----------------------------------------------------------------------------+"
+
     read -p "Select a Number : " choice
 
     case $choice in
